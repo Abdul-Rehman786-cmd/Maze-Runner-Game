@@ -1,0 +1,5 @@
+﻿  Game.cpp
+  Main.cpp
+  MainWindow.cpp
+D:\Bahria\OOP project\OOP final project\Engine\Game.cpp(863,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Engine.vcxproj -> D:\Bahria\OOP project\OOP final project\x64\Debug\Engine.exe
